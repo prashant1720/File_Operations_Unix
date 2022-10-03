@@ -1,3 +1,13 @@
+/* 
+Name: Prashant Sharma 
+BlazerId: psharma2
+Project #: hw-2
+To compile: gcc psharma2.c -o code
+To run: ./code input_flag
+*/
+
+
+
 // Declaring all the header files that are used in the code
 #include <stdio.h>
 #include <time.h>
